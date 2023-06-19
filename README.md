@@ -6,8 +6,8 @@ I am a Frontend developer. I know Next JS, React JS, Typescript, Material UI, An
 <a  href="https://t.me/Soh1bjonBlog">
   <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/800px-Telegram_Messenger.png" />
 </a>
-<a  href="[https://t.me/Soh1bjonBlog](https://www.linkedin.com/in/sohibjon-abdialimov-439a63273/)">
-  <img width="40px" height="40px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/800px-Telegram_Messenger.png](https://img.freepik.com/free-icon/linkedin_318-157468.jpg)" />
+<a  href="[https://t.me/Soh1bjonBlog](https://www.linkedin.com/in/sohibjon-abdialimov-439a63273/)](https://www.linkedin.com/in/sohibjon-abdialimov-439a63273/)">
+  <img width="40px" height="40px" src="https://img.freepik.com/free-icon/linkedin_318-157468.jpg" />
 </a>
 <a  href="https://t.me/Soh1bjonBlog">
   <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/800px-Telegram_Messenger.png" />
