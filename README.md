@@ -11,7 +11,7 @@ I am a Frontend developer. I know Next JS, React JS, Typescript, Material UI, An
   <img width="40px" height="40px" src="https://img.freepik.com/free-icon/linkedin_318-157468.jpg" />
 </a>
 <a  href="sohibjonabdialimov6@gmail.com">
-  <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />
+  <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />
 </a>
 </div>
 My phone number: +998976367975
