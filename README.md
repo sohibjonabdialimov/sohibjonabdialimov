@@ -11,8 +11,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-My phone number: +998976367975
-My telegram account **https://t.me/sohibjon_developer**
+My phone number: +998976367975 <br />
+My telegram account <a href="https://t.me/sohibjon_developer">@sohibjon_developer</a>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sohibjon-abdialimov-439a63273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sohibjon-abdialimov-439a63273/" height="30" width="40" /></a>
 </p>
