@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **React,Typescript,NextJS, Redux, MobX, React Formik, Ant Design, MUI, I18N, HTML, CSS, Tailwind CSS, SASS, Bootstrap**
+- 💬 Ask me about **React,Typescript,NextJS, Redux, MobX, React Formik, Ant Design, MUI, I18N, VueJs, Pinia, HTML, CSS, Tailwind CSS, SASS, Bootstrap, Firebase, GitHub**
 
 - 📫 How to reach me **sohibjonabdialimov1@gmail.com, sohibjonabdialimov6@gmail.com**
 
