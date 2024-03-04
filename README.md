@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ReactJs, Typescript, NextJs, Javascript, React-Redux, Redux-Toolkit, MobX, React Formik, Ant Design, Material UI, I18N, VueJs, Pinia, HTML, CSS, Tailwind CSS, SASS, Bootstrap, Firebase, GitHub**
 
-- 📫 How to reach me **sohibjonabdialimov1@gmail.com, sohibjonabdialimov6@gmail.com**
+- 📫 How to reach me **sohibjonabdialimov6@gmail.com, sohibjonabdialimov1@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
