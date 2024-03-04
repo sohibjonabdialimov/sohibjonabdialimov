@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohibjonabdialimov&label=Profile%20views&color=0e75b6&style=flat" alt="sohibjonabdialimov" /> </p>
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NodeJs, ExpressJs and MongoDb**
 
 - 💬 Ask me about **ReactJs, Typescript, NextJs, Javascript, React-Redux, Redux-Toolkit, MobX, React Formik, Ant Design, Material UI, I18N, VueJs, Pinia, HTML, CSS, Tailwind CSS, SASS, Bootstrap, Firebase, GitHub**
 
