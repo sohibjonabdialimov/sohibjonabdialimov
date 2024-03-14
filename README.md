@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJs, ExpressJs and MongoDb**
 
-- 💬 Ask me about **ReactJs, Typescript, NextJs, Javascript, React-Redux, Redux-Toolkit, MobX, React Formik, Ant Design, Material UI, I18N, VueJs, Pinia, HTML, CSS, Tailwind CSS, SASS, Bootstrap, Firebase, GitHub**
+- 💬 Ask me about **ReactJs, Typescript, NextJs, Javascript, React-Redux, Redux-Toolkit, MobX, React Formik, Ant Design, Material UI, I18N, VueJs, Pinia, HTML, CSS, Tailwind CSS, SASS, Bootstrap, Firebase, Git**
 
 - 📫 How to reach me **sohibjonabdialimov6@gmail.com, sohibjonabdialimov1@gmail.com**
 
