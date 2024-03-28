@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [https://uzaksu.uz/](https://uzaksu.uz/)
 
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Contact with me:</h3>
 <!-- My phone number: +998976367975 <br />
 My telegram account: <a href="https://t.me/sohibjon_developer">@sohibjon_developer</a> <br />
 My linkedin account: <a href="https://www.linkedin.com/in/sohibjon-developer/">www.linkedin.com/in/sohibjon-developer</a> -->
