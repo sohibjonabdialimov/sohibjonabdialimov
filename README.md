@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend(ReactJs,NextJs,Typescript)+developer)](https://git.io/typing-svg)
 <br />
-<h1 align="center">Hi 👋, I'm Sohibjon</h1>
+<h1 align="center">Hi <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="30px">, I'm Sohibjon</h1>
 <h3 align="center">A Strong Junior Frontend Developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohibjonabdialimov&label=Profile%20views&color=0e75b6&style=flat" alt="sohibjonabdialimov" /> </p>
