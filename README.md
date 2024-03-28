@@ -42,7 +42,12 @@ My linkedin account: <a href="https://www.linkedin.com/in/sohibjon-developer/">w
 <br />
 <h2 align="center">My GitHub Stats 📊</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohibjonabdialimov&show_icons=true&locale=en&layout=compact" alt="sohibjonabdialimov" /></p>
+<div class="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohibjonabdialimov&show_icons=true&locale=en&layout=compact" alt="sohibjonabdialimov" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sohibjonabdialimov&show_icons=true&locale=en" alt="sohibjonabdialimov" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohibjonabdialimov&" alt="sohibjonabdialimov" />
+</div>
+<p></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohibjonabdialimov&show_icons=true&locale=en" alt="sohibjonabdialimov" /></p>
 
