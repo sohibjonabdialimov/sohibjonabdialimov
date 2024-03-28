@@ -8,16 +8,17 @@
 - 💬 Ask me about **ReactJs, Typescript, NextJs, Javascript, React-Redux, Redux-Toolkit, MobX, Zustand, React Formik, Ant Design, Material UI, I18Next, VueJs, Pinia, HTML, CSS, Tailwind CSS, SASS, Bootstrap, Firebase, Git**
 
 - 📫 How to reach me **sohibjonabdialimov6@gmail.com, sohibjonabdialimov1@gmail.com**
+- 👨‍💻 All of my projects are available at [https://uzaksu.uz/](https://uzaksu.uz/)
 
 
 <h3 align="left">Connect with me:</h3>
 My phone number: +998976367975 <br />
 My telegram account: <a href="https://t.me/sohibjon_developer">@sohibjon_developer</a> <br />
 My linkedin account: <a href="https://www.linkedin.com/in/sohibjon-developer/">www.linkedin.com/in/sohibjon-developer</a>
-<p align="left">
+<!-- <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sohibjon-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sohibjon-developer/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/sohibjon_developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sohibjon_developer/" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <div> 
  <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
