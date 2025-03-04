@@ -13,14 +13,14 @@
 - 👨‍💻 All of my projects are available at [uzaksu.uz](https://uzaksu.uz), [ilmlar.com](https://ilmlar.com) and CRM system for Gumbaz construction market
 
 
-<h2 align="center">Contact with me:</h2>
+<h2 align="center">Contact with me: +998(97) 636-79-75</h2>
 <!-- My phone number: +998976367975 <br />
 My telegram account: <a href="https://t.me/sohibjon_developer">@sohibjon_developer</a> <br />
 My linkedin account: <a href="https://www.linkedin.com/in/sohibjon-developer/">www.linkedin.com/in/sohibjon-developer</a> -->
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/sohibjon-developer/" title="LinkedIn Profile"><img height="50" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/sohibjon_developer/" title="Instagram Profile"><img height="50" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="https://t.me/sohibjon_developer" title="Telegram Profile"><img height="50" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sohibjon-developer/" title="LinkedIn Profile"><img height="40" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/sohibjon_developer/" title="Instagram Profile"><img height="40" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://t.me/sohibjon_developer" title="Telegram Profile"><img height="40" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </h5>
 <!-- <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sohibjon-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sohibjon-developer/" height="30" width="40" /></a>
