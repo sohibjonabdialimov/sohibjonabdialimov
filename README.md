@@ -12,7 +12,7 @@
 - 📫 How to reach me **sohibjonabdialimov6@gmail.com, sohibjonabdialimov1@gmail.com**
 - 👨‍💻 All of my projects are available at [uzaksu.uz](https://uzaksu.uz), [ilmlar.com](https://ilmlar.com) and CRM system for Gumbaz construction market
 
-
+<br /> <br /><br /> <br />
 <h2 align="center">Contact with me: +998(97) 636-79-75</h2>
 <!-- My phone number: +998976367975 <br />
 My telegram account: <a href="https://t.me/sohibjon_developer">@sohibjon_developer</a> <br />
