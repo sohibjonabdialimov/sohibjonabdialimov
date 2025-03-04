@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend(ReactJs,NextJs,Typescript)+developer)](https://git.io/typing-svg)
 <br />
 <h1 align="center">Hi <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="30px">, I'm Sohibjon</h1>
-<h3 align="center">A Strong Junior Frontend Developer from Uzbekistan</h3>
+<h3 align="center">The Strong Junior Frontend Developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohibjonabdialimov&label=Profile%20views&color=0e75b6&style=flat" alt="sohibjonabdialimov" /> </p>
 
 - 🌱 I’m currently learning **NodeJs, ExpressJs and MongoDb**
 
-- 💬 Ask me about **ReactJs, Typescript, NextJs, Javascript, React-Redux, Redux-Toolkit, MobX, Zustand, React Formik, Ant Design, Material UI, I18Next, VueJs, Pinia, HTML, CSS, Tailwind CSS, SASS, Bootstrap, Firebase, Git**
+- 💬 Ask me about **React Js, Typescript, NextJs, Javascript, React-Redux, Redux-Toolkit, MobX, Zustand, React Formik, Zod, Ant Design, Material UI, Shadcn UI, Radix UI, I18Next, HTML, CSS, Tailwind CSS, SASS, Bootstrap, Firebase, Git**
 
 - 📫 How to reach me **sohibjonabdialimov6@gmail.com, sohibjonabdialimov1@gmail.com**
 - 👨‍💻 All of my projects are available at [https://uzaksu.uz/](https://uzaksu.uz/)
