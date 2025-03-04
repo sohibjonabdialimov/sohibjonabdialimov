@@ -10,7 +10,7 @@
 - 💬 Ask me about **React Js, Typescript, NextJs, Javascript, React-Redux, Redux-Toolkit, MobX, Zustand, React Formik, Zod, Ant Design, Material UI, Shadcn UI, Radix UI, I18Next, HTML, CSS, Tailwind CSS, SASS, Bootstrap, Firebase, Git**
 
 - 📫 How to reach me **sohibjonabdialimov6@gmail.com, sohibjonabdialimov1@gmail.com**
-- 👨‍💻 All of my projects are available at [uzaksu.uz](https://uzaksu.uz), [ilmlar.com](https://ilmlar.com), CRM system for Gumbaz construction market
+- 👨‍💻 All of my projects are available at [uzaksu.uz](https://uzaksu.uz), [ilmlar.com](https://ilmlar.com) and CRM system for Gumbaz construction market
 
 
 <h2 align="center">Contact with me:</h2>
